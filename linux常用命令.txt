@@ -1,0 +1,10 @@
+ps aux | grep '服务名称'  || 查看linux运行服务
+systemctl status '服务名称'  ||查看linux运行服务状态
+find / -name '*文件夹名称*' ||查找目标名称文件
+yum remove '服务名称' ||卸载服务
+yum install '服务名称' ||安装某服务
+
+opAIP密钥：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
+opAIP密钥：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
+
+8.219.142.175服务器  jikcn33MJ
